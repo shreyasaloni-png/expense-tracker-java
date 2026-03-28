@@ -1,3 +1,4 @@
+// expense tracker project
 import java.io.Serializable;
 
 public class Expense implements Serializable {
